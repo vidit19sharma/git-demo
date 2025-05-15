@@ -1,2 +1,2 @@
 # git-demo
-this is to check the demo of github and its commands
+This is to check the demo of GitHub and its commands
